@@ -1,0 +1,49 @@
+<html>
+<script language="javascript">
+
+//*p005
+
+var Pepe;
+var PEPE=" how are you";
+var pepE= 75.47;
+var pEpe=" como estas?";
+
+Pepe=PEPE+pEpe;
+
+alert("PEPE ="+PEPE);
+alert("PEPE es "+typeof(PEPE));
+alert("pepE ="+pepE);
+alert("pepE es "+typeof(pepE));
+alert("pEpe ="+pEpe);
+alert("pEpe es "+typeof(pEpe));
+alert("Pepe ="+Pepe);
+alert("Pepe es "+typeof(Pepe));
+
+
+
+
+
+</script>
+
+//descripcion ejercicio
+
+<p> var Pepe ;
+
+<p>var PEPE=" how are you";
+<p>var pepE= 75.47;
+<p>var pEpe=" como estas?";
+
+<p>Pepe=PEPE+pEpe
+
+<p>alert("PEPE ="+PEPE);
+<p>alert("PEPE es "+typeof(PEPE));
+<p>alert("pepE ="+pepE);
+<p>alert("pepE es "+typeof(pepE));
+<p>alert("pEpe ="+pEpe);
+<p>alert("pEpe es "+typeof(pEpe));
+<p>alert("Pepe ="+Pepe);
+<p>alert("Pepe es "+typeof(Pepe));
+
+
+
+</html>
